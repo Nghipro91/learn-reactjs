@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Tràn Hữu Nghị
+          Tràn Hữu Nghị - test thu xem the nao
         </p>
 
       </header>
