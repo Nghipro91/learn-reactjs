@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Tràn Hữu Nghị - test thu xem the nao
+
+          Hay quá bạn ơi
         </p>
 
       </header>
